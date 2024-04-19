@@ -1,0 +1,5 @@
+    PID TTY          TIME CMD
+ 103675 pts/0    00:00:00 bash
+ 103811 pts/0    00:00:00 bash
+ 103819 pts/0    00:00:00 ps
+ 103820 pts/0    00:00:00 grep
